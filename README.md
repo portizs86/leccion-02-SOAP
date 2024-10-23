@@ -85,7 +85,8 @@ Some things to try:
    - Check the check box next to "Node.js (via nvm) and yarn" (published by devcontainers) 
    - Click OK
    - Press <kbd>F1</kbd> and select the **Dev Containers: Rebuild Container** or **Codespaces: Rebuild Container** command so the modifications are picked up.
-
+**Para hacer commit**
+SoapCore
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
